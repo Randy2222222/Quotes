@@ -2,28 +2,28 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-color: tan;
-  color: saddlebrown;
+  background-color: cyan;
+  color: teal;
   font-family: Arial, sans-serif;
  /* text-align: center;*/
 }
 
 /* Header */
 header {
-  background-color: tan;
-  color: saddlebrown;
+  background-color: cyan;
+  color: teal
   text-align: center;
 /*  padding: 0.3em 0;   */
-  border: 2px solid saddlebrown;
+  border: 2px turquoise;
   margin: 0;
   line-height: 1;
-  background-image: radial-gradient(ivory,
-                                tan,  saddlebrown);  /* Gradient */
+  background-image: radial-gradient(cyan,
+                                turquoise,  teal);  /* Gradient */
 }
 
 header h1 {
-  background-color: tan;
-  color: saddlebrown;
+  background-color: cyan;
+  color: teal;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -31,36 +31,36 @@ header h1 {
   font-weight: bold;
   line-height: 1.2em; 
 /*  border: 2px solid saddlebrown; */
-  background-image: radial-gradient(ivory,
-                                tan,  saddlebrown);
+  background-image: radial-gradient(cyan,
+                                turquoise,  teal);
 }
 
 h2 {
-  background-color: tan;
+  background-color: cyan;
   font-size: 3em;
   font-weight: 800;
-  color: saddlebrown;
+  color: teal;
   margin: 0px auto 10px auto;
   padding: 10px auto 10px auto;
-  border-bottom: 2px solid saddlebrown;
-  background-image: radial-gradient(ivory,
-                                tan,  saddlebrown);
+  border-bottom: 2px solid teal;
+  background-image: radial-gradient(cyan,
+                                turquoise,  teal);
 }
 
 h3 {
-  background-color: tan;
+  background-color: cyan;
   font-size: 2em;
-  color: saddlebrown;
+  color: teal;
   margin: 0px auto 10px auto;
   padding: 10px auto 10px auto;
-  background-image: radial-gradient(ivory,
-                                tan,  saddlebrown);
+  background-image: radial-gradient(cyan,
+                                turquoise,  teal);
 }
 
 
  p {
-  background-color: tan;
-  color: saddlebrown;
+  background-color: cyan;
+  color: teak;
   font-weight: bold;
   font-size: 1.8em;
   text-align: center;
@@ -69,13 +69,13 @@ h3 {
 
 
 footer { 
-  background-color: tan;
-  color: saddlebrown;
+  background-color: cyan;
+  color: teal;
   margin: 0px auto 0px auto;
   padding: 0px auto 0px auto;
   text-align: center;
-  border: 2px solid saddlebrown;
+  border: 2px solid turquoise;
   font-size: 2.0em;
-  background-image: radial-gradient(ivory,
-                                tan,  saddlebrown);
+  background-image: radial-gradient(cyan,
+                                turquoise,  teal);
 }
