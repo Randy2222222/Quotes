@@ -35,6 +35,12 @@ header h1 {
                                 crimson,  black);
 }
 
+.container {
+  display: flex;
+  justify-align: center;
+  align-content: center;
+}
+
 h2 {
   background-color: red;
   font-size: 5em;
