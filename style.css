@@ -41,9 +41,9 @@ h2 {
   font-weight: 800;
   color: black;
   margin: 25px;
-  margin-radius: 10px;
+  border-radius: 10px;
   padding: 50px;
-  border-bottom: 3px solid teal;
+  border: 3px solid crimson;
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
