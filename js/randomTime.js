@@ -22,7 +22,7 @@ function runOncePerDay(){
 const fs = require("fs");
 // note this will be async
 function getRandomLine(filename, callback){
-  fs.readFile(filename, "utf-8", function(err, data){
+  fs.readFile(quote.txt, "utf-8", function(err, data){
     if(err) {
         throw err;
     }
