@@ -1,4 +1,4 @@
-header for h2 ❝Death smiles at us all, all a man can do is smile back.❞ header for h3 ☠️ Marcus Aurelius ☠️
+header for h2. ❝Death smiles at us all, all a man can do is smile back.❞ header for h3. ☠️ Marcus Aurelius ☠️
 
 header for h2 ❝Time is a great teacher, but unfortunately it kills all its pupils.❞ header for h3 ☠️ Hector Berlioz ☠️
 
