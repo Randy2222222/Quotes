@@ -65,7 +65,15 @@ h3 {
   font-size: 1.8em;
   text-align: center;
   line-height: 50%;
-}
+}.height 
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vw;
+}  
+
 Blockquote {
   background-color: cyan;
   color: teal;
