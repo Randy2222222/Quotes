@@ -52,6 +52,7 @@ h3 {
   background-color: red;
   font-size: 2em;
   color: black;
+  text-align: center;
   margin: 0px auto 10px auto;
   padding: 10px auto 10px auto;
   background-image: radial-gradient(red,
