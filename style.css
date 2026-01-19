@@ -80,9 +80,9 @@ Blockquote {
   color: teal;
   font-size: 5em;
   text-align: center;
-  padding: 50px auto 50px autp;
-  margin: 25px auto 25px auto;
-  border: 3px ridge teal;
+  padding: 50px;
+  margin: 25p;
+  border: 3px solid teal;
   background-image: radial-gradient(lightcyan,
                                 turquoise,  teal);  /* Gradient */
 }
