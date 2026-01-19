@@ -82,6 +82,13 @@ Blockquote {
   padding: 50px auto 50px autp;
   margin: 25px auto 25px auto;
   border: 3px ridge teal;
+  background-image: radial-gradient(lightcyan,
+                                turquoise,  teal);  /* Gradient */
+}
+q {
+  background-color: cyan;
+  color: teal;
+  font-size: 7;
 }
 
 
