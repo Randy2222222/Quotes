@@ -4,7 +4,7 @@ function updateHeaders() {
         .then(data => {
             const lines = data.split('\n');
             if (lines.length >= 2) {
-                document.querySelector('h1').textContent = lines[0];
+                document.querySelector('h2').textContent = lines[0];
                 document.querySelector('h3').textContent = lines[1];
             }
         })
