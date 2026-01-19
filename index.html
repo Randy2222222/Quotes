@@ -19,12 +19,29 @@
     <h2>❝Everyman is put on this Earth to Die, 
       Time and Method of Execution Uknown!❞</h2>
        
-    
+    <script>function updateHeaders() {
+    fetch('deathquote.txt')
+        .then(response => response.text())
+        .then(data => {
+            const lines = data.split('\n');
+            if (lines.length >= 2) {
+                document.querySelector('h2').textContent = lines[0];
+                document.querySelector('h3').textContent = lines[1];
+            }
+        })
+        .catch(error => console.error('Error fetching the text file:', error));
+}
+
+// Call the function once to update headers
+updateHeaders();
+
+// Optionally, set an interval to update daily
+setInterval(updateHeaders, 24 * 60 * 60 * 1000); // 24 hours in milliseconds
    
-  
+    </script> 
 
 
-     <script>js/fetch.js</script>
+     
   <footer><h3>Rod Sterling</h3></footer>
 </body>
 </html>
