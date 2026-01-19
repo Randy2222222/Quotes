@@ -66,6 +66,15 @@ h3 {
   text-align: center;
   line-height: 50%;
 }
+Blockquote {
+  background-color: cyan;
+  color: teal;
+  font-size: 5em;
+  text-align: center;
+  padding: 50px auto 50px autp;
+  margin: 25px auto 25px auto;
+  border: 3px ridge teal;
+}
 
 
 footer { 
