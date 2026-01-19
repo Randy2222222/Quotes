@@ -1,12 +1,12 @@
-header for h2. ❝Death smiles at us all, all a man can do is smile back.❞ header for h3. ☠️ Marcus Aurelius ☠️
+h2. ❝Death smiles at us all, all a man can do is smile back.❞ h3. ☠️ Marcus Aurelius ☠️
 
-header for h2 ❝Time is a great teacher, but unfortunately it kills all its pupils.❞ header for h3 ☠️ Hector Berlioz ☠️
+h2. ❝Time is a great teacher, but unfortunately it kills all its pupils.❞ h3. ☠️ Hector Berlioz ☠️
 
-header for h2 ❝Growing old was simply a process of drawing closer to that ultimate independence called death.❞ header for h3 ☠️ Martha Ostenso ☠️
+h2. ❝Growing old was simply a process of drawing closer to that ultimate independence called death.❞ h3. ☠️ Martha Ostenso ☠️
 
-header for h2 ❝Death has but one terror, that it has no tomorrow.❞ header for h3 ☠️ Eric Hoffer ☠️
+h2. ❝Death has but one terror, that it has no tomorrow.❞ h3. ☠️ Eric Hoffer ☠️
 
-header for h2 ❝How wonderful is death! Death and his brother sleep.❞ header for h3 ☠️ Percy Bysshe Shelley ☠️
+h2. ❝How wonderful is death! Death and his brother sleep.❞ h3. ☠️ Percy Bysshe Shelley ☠️
 
 header for h2 ❝The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.❞ header for  ☠️ Mark Twain ☠️ 
 
