@@ -5,7 +5,6 @@ html, body {
   background-color: black;
   color: red;
   font-family: Arial, sans-serif;
- /* text-align: center;*/
 }
 
 /* Header */
@@ -30,7 +29,6 @@ header h1 {
   font-size: 4.5em;
   font-weight: bold;
   line-height: 1.2em; 
-/*  border: 2px solid saddlebrown; */
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
@@ -46,7 +44,6 @@ h2 {
   border-radius: 10px;
   margin: 50px auto 50px auto;
   padding: 25px auto 25px auto;
-  border: 3px solid crimson;
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
@@ -59,39 +56,6 @@ h3 {
   padding: 10px auto 10px auto;
   background-image: radial-gradient(red,
                                crimson,  black);
-}
-
-
- p {
-  background-color: red;
-  color: black;
-  font-weight: bold;
-  font-size: 5em;
-  text-align: center;
-  line-height: 50%;
-}
-
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vw;
-  width: 100vw;
-}  
-
-Blockquote {
-  background-color: black;
-  color: red;
-  font-size: 5em;
-  text-align: center;
-  padding: 50px;
-  margin: 25p;
-  border: 3px solid red;
-  background-image: radial-gradient(red,
-                                crimson,  black);  /* Gradient */
-}
-
-
 
 footer { 
   background-color: red;
