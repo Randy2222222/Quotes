@@ -11,7 +11,7 @@ html, body {
 /* Header */
 header {
   background-color: cyan;
-  color: teal
+  color: teal;
   text-align: center;
   padding: 0.3em auto 0.3em auto;
   border: 2px turquoise;
@@ -37,12 +37,12 @@ header h1 {
 
 h2 {
   background-color: cyan;
-  font-size: 3em;
+  font-size: 5em;
   font-weight: 800;
   color: teal;
-  margin: 0px auto 10px auto;
-  padding: 10px auto 10px auto;
-  border-bottom: 2px solid teal;
+  margin: 25px;
+  padding: 50px;
+  border-bottom: 3px solid teal;
   background-image: radial-gradient(lightcyan,
                                 turquoise,  teal);
 }
@@ -60,9 +60,9 @@ h3 {
 
  p {
   background-color: cyan;
-  color: teak;
+  color: teal;
   font-weight: bold;
-  font-size: 1.8em;
+  font-size: 5em;
   text-align: center;
   line-height: 50%;
 }.height 
