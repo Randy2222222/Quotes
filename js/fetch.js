@@ -1,5 +1,5 @@
 function updateHeaders() {
-    fetch('path/to/your/textfile.txt')
+    fetch('deathquote.txt')
         .then(response => response.text())
         .then(data => {
             const lines = data.split('\n');
