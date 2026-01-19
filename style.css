@@ -37,16 +37,13 @@ header h1 {
 
 
 h2 {
-  display: relative;
-  align-content: 100vw;
-  justify-contenr: 100vw;
   background-color: red;
   font-size: 5em;
   text-align: center;
   font-weight: 800;
   color: black;
 /* border-radius: 10px;*/
-  margin: 50px auto 50px auto;
+  margin: 150px auto 150px auto;
   padding: 25px auto 25px auto;
   background-image: radial-gradient(red,
                                 crimson,  black);
