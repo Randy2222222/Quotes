@@ -5,7 +5,6 @@ html, body {
   background-color: black;
   color: red;
   font-family: Arial, sans-serif;
-  box-sizing: border-box;
 }
 
 /* Header */
@@ -22,6 +21,7 @@ header {
 }
 
 header h1 {
+  position: fixed;
   background-color: red;
   color: black;
   margin: 0;
@@ -50,6 +50,7 @@ h2 {
 }
 
 h3 {
+  position: fixed;
   background-color: red;
   font-size: 4.0em;
   color: black;
@@ -61,6 +62,7 @@ h3 {
   {
 
 footer { 
+  position: fixed;
   background-color: red;
   color: black;
   margin: 10px auto 10px auto;
