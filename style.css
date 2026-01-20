@@ -33,13 +33,6 @@ header h1 {
                                 crimson,  black);
 }
 
-
-/*
-Source - https://stackoverflow.com/a
-Posted by alephao
-Retrieved 2026-01-20, License - CC BY-SA 4.0
-*/
-
 .container {
 /*  min-height: 100vh; /* minimum height = screen height */
   display: flex;
@@ -53,8 +46,7 @@ h2 {
 /*  text-align: center; */
   font-weight: 800;
   color: black;
-/* border-radius: 10px;
-  margin: 120px auto 120px auto; */
+/* margin: 120px auto 120px auto; */
   padding: 25px auto 25px auto;
   background-image: radial-gradient(red,
                                 crimson,  black);
