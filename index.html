@@ -18,26 +18,44 @@
        
     <h2></h2>
        
-    <script>function updateHeaders() {
+    <script>
+function updateHeaders() {
     fetch('deathquote.txt')
         .then(response => response.text())
         .then(data => {
-            const lines = data.split('\n');
-            if (lines.length >= 2) {
-                document.querySelector('h2').textContent = lines[0];
-                document.querySelector('h3').textContent = lines[1];
+            const lines = data
+                .split('\n')
+                .map(line => line.trim())
+                .filter(line => line.length > 0);
+
+            // Build quote pairs
+            const quotes = [];
+            for (let i = 0; i < lines.length; i += 2) {
+                quotes.push({
+                    quote: lines[i],
+                    author: lines[i + 1]
+                });
             }
+
+            // Get today's date at local midnight
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+
+            // Convert to day number
+            const dayNumber = Math.floor(today.getTime() / 86400000);
+
+            // Pick quote based on day
+            const index = dayNumber % quotes.length;
+
+            document.querySelector('h2').textContent = quotes[index].quote;
+            document.querySelector('h3').textContent = quotes[index].author;
         })
-        .catch(error => console.error('Error fetching the text file:', error));
+        .catch(error => console.error('Error fetching quotes:', error));
 }
 
-// Call the function once to update headers
+// Run once on page load
 updateHeaders();
-
-// Optionally, set an interval to update daily
-setInterval(updateHeaders, 24 * 60 * 60 * 1000); // 24 hours in milliseconds
-   
-    </script> 
+</script>
 
 
      
