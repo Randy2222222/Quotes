@@ -41,7 +41,7 @@ Retrieved 2026-01-20, License - CC BY-SA 4.0
 */
 
 .container {
-  min-height: 100vh; /* minimum height = screen height */
+/*  min-height: 100vh; /* minimum height = screen height */
   display: flex;
   justify-content: center;
   align-items: center;
