@@ -21,7 +21,6 @@ header {
 }
 
 header h1 {
-  position: fixed;
   background-color: red;
   color: black;
   margin: 0;
@@ -43,14 +42,13 @@ h2 {
   font-weight: bold;
   color: black;
 /* border-radius: 10px;*/
-  margin: 100px auto 100px auto;
+  margin: 150px auto 150px auto;
   padding: 25px auto 25px auto;
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
 
 h3 {
-  position: fixed;
   background-color: red;
   font-size: 4.0em;
   color: black;
@@ -62,7 +60,6 @@ h3 {
   {
 
 footer { 
-  position: fixed;
   background-color: red;
   color: black;
   margin: 10px auto 10px auto;
