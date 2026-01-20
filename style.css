@@ -51,6 +51,7 @@ h2 {
 h3 {
   background-color: red;
   font-size: 4.0em;
+  font-weight: bold;
   color: black;
   text-align: center;
   margin: 10px auto 0px auto;
