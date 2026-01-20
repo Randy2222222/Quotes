@@ -50,11 +50,11 @@ Retrieved 2026-01-20, License - CC BY-SA 4.0
 h2 {
   background-color: red;
   font-size: 5em;
-  text-align: center;
+/*  text-align: center; */
   font-weight: 800;
   color: black;
-/* border-radius: 10px;*/
-  margin: 120px auto 120px auto;
+/* border-radius: 10px;
+  margin: 120px auto 120px auto; */
   padding: 25px auto 25px auto;
   background-image: radial-gradient(red,
                                 crimson,  black);
