@@ -53,7 +53,7 @@ h3 {
   font-size: 4.0em;
   color: black;
   text-align: center;
-  margin: 10px auto 10px auto;
+  margin: 10px auto 0px auto;
   padding: 10px auto 10px auto;
   background-image: radial-gradient(red,
                                crimson,  black);
@@ -62,7 +62,7 @@ h3 {
 footer { 
   background-color: red;
   color: black;
-  margin: 10px auto 10px auto;
+  margin: 10px auto 0px auto;
   padding: 10px auto 10px auto;
   text-align: center;
   font-size: 4.0em;
