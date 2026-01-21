@@ -35,7 +35,7 @@ header h1 {
 
 .container {
   display: flex;
-/*  justify-content: center; */
+/*  justify-content: center; */ /* only used for vertical alignment to center it */
   align-items: center;
 }
 
@@ -45,8 +45,8 @@ h2 {
   text-align: center; 
   font-weight: 800;
   color: black;
-/* margin: 120px auto 120px auto; */
-  padding: 25px 10px 25px 10px;
+/* margin: 120px auto 120px auto; */ /* took margin out and used flex box for margin adjuustment 👍 */
+  padding: 25px 10px 25px 10px; /* added 10px padding to sides looks much better */
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
