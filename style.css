@@ -28,6 +28,7 @@ header h1 {
   text-align: center;
   font-size: 4.5em;
   font-weight: bold;
+  text-shadow: 4px 4px 4px dimgray;
   line-height: 1.2em; 
   background-image: radial-gradient(red,
                                 crimson,  black);
