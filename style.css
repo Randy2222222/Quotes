@@ -52,6 +52,12 @@ h2 {
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
+@media (max-width: 600px) {
+    * {
+        width: 50%;
+    }
+}
+
 
 h3 {
   background-color: red;
