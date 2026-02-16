@@ -1,6 +1,5 @@
 /* Base page settings */
 html, body {
-  box-size: border-box;
   margin: 0;
   padding: 0;
   background-color: black;
@@ -53,13 +52,6 @@ h2 {
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
-/* Responsive adjustment for small screens */
-@media (max-width: 600px) {
-  font-size: 50%;
-}
-
-
-
 
 h3 {
   background-color: red;
@@ -73,6 +65,11 @@ h3 {
   background-image: radial-gradient(red,
                                crimson,  black);
   {
+
+  /* Responsive adjustment for small screens */
+@media (max-width: 600px) {
+  
+
 
 footer { 
   background-color: red;
