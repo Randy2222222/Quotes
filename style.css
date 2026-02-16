@@ -76,7 +76,8 @@ html, body {
   color: red;
   font-family: Arial, sans-serif;
 }
-
+}
+  @media (max-width: 600px) {
 /* Header */
 header {
   background-color: red;
@@ -89,7 +90,8 @@ header {
   background-image: radial-gradient(red
                                 crimson,  black);  /* Gradient */
 }
-
+  }
+@media (max-width: 600px) {
 header h1 {
   background-color: red;
   color: black;
@@ -103,13 +105,15 @@ header h1 {
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
-
+}
+@media (max-width: 600px) {
 .container {
   display: flex;
 /*  justify-content: center; */ /* only used for vertical alignment to center it */
   align-items: center;
 }
-
+}
+@media (max-width: 600px) {
 h2 {
   background-color: red;
   font-size: 2.5em;
@@ -122,7 +126,9 @@ h2 {
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
-
+}
+  
+@media (max-width: 600px) {
 h3 {
   background-color: red;
   font-size: 2.0em;
@@ -135,8 +141,9 @@ h3 {
   background-image: radial-gradient(red,
                                crimson,  black);
   {
-  
   {
+  
+  
 
 
 /*footer { 
