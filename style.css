@@ -7,7 +7,7 @@ html, body {
   font-family: Arial, sans-serif;
 }
 
-/* Header */
+/* Header 
 header {
   background-color: red;
   color: black;
@@ -18,18 +18,18 @@ header {
   line-height: 1;
   background-image: radial-gradient(red
                                 crimson,  black);  /* Gradient */
-}
+
 
 header h1 {
   background-color: red;
   color: black;
   margin: 0px auto 5px auto; 
-  padding: 5px auto 5px auto;
+  padding: 10px auto 10px auto;
   text-align: center;
-  font-size: 2em; /* 4.5 */
+  font-size: 1.5em; /* 4.5 */
   font-weight: bold;
   text-shadow: 2px 2px 2px whitesmoke;
-  line-height: .6em; 
+/*  line-height: .6em; */
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
@@ -55,13 +55,13 @@ h2 {
 
 h3 {
   background-color: red;
-  font-size: 2.0em;
+  font-size: 1.5em;
   font-weight: bold;
   color: black;
   text-align: center;
   text-shadow: 2px 2px 2px whitesmoke;
   margin: 5px auto 0px auto;
-  padding: 5px auto 5px auto;
+  padding: 10px auto 10px auto;
   background-image: radial-gradient(red,
                                crimson,  black);
   {
