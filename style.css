@@ -50,7 +50,7 @@ h2 {
   color: black;
   text-shadow: 2px 2px 2px whitesmoke;
 /* margin: 120px auto 120px auto; */ /* took margin out and used flex box for margin adjuustment 👍 */
-  padding: 15px 10px 15px 10px; /* added 10px padding to sides looks much better */
+  padding: 10px 5px 10px 5px; /* added 10px padding to sides looks much better */
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
