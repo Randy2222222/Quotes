@@ -25,7 +25,7 @@ header h1 {
   color: black;
   margin: 0px auto 5px auto; 
   padding: 15px auto 15px auto;
-  border-radius: 20px;
+  border-radius: 17px;
   border: 3px solid black;
   text-align: center;
   font-size: 1.5em; /* 4.5 */
@@ -61,7 +61,7 @@ h3 {
   background-color: red;
   font-size: 1.5em;
   font-weight: bold;
-  border-radius: 20px;
+  border-radius: 17px;
   border: 3px solid black;
   color: black;
   text-align: center;
