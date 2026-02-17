@@ -38,7 +38,7 @@ header h1 {
 
 .container {
   display: flex;
-/*  justify-content: center; */ /* only used for vertical alignment to center it */
+  justify-content: center;  /* only used for vertical alignment to center it */
   align-items: center;
 }
 
