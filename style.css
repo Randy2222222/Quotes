@@ -7,7 +7,7 @@ html, body {
   font-family: Arial, sans-serif;
 }
 
-/* Header */
+/* Header 
 header {
   background-color: red;
   color: black;
@@ -18,18 +18,18 @@ header {
   line-height: 1;
   background-image: radial-gradient(red
                                 crimson,  black);  /* Gradient */
-}
+
 
 header h1 {
   background-color: red;
   color: black;
-  margin: 0px auto 10px auto; 
-  padding: 10px auto 10px auto;
+  margin: 0px auto 5px auto; 
+  padding: 5px auto 5px auto;
   text-align: center;
-  font-size: 4.5em;
+  font-size: 2em; /* 4.5 */
   font-weight: bold;
-  text-shadow: 4px 4px 4px whitesmoke;
-  line-height: 1.2em; 
+  text-shadow: 2px 2px 2px whitesmoke;
+  line-height: .6em; 
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
@@ -42,26 +42,26 @@ header h1 {
 
 h2 {
   background-color: red;
-  font-size: 5em;
+  font-size: 2.5em;
   text-align: center; 
   font-weight: 800;
   color: black;
-  text-shadow: 4px 4px 4px whitesmoke;
+  text-shadow: 2px 2px 2px whitesmoke;
 /* margin: 120px auto 120px auto; */ /* took margin out and used flex box for margin adjuustment 👍 */
-  padding: 25px 10px 25px 10px; /* added 10px padding to sides looks much better */
+  padding: 12.5px 5px 12.5px 5px; /* added 10px padding to sides looks much better */
   background-image: radial-gradient(red,
                                 crimson,  black);
 }
 
 h3 {
   background-color: red;
-  font-size: 4.0em;
+  font-size: 2.0em;
   font-weight: bold;
   color: black;
   text-align: center;
-  text-shadow: 4px 4px 4px whitesmoke;
-  margin: 10px auto 0px auto;
-  padding: 10px auto 10px auto;
+  text-shadow: 2px 2px 2px whitesmoke;
+  margin: 5px auto 0px auto;
+  padding: 5px auto 5px auto;
   background-image: radial-gradient(red,
                                crimson,  black);
   {
