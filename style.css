@@ -72,14 +72,16 @@ h3 {
                                crimson,  black);
   {
 
-  @media screen and (min-width: 600px) {
-    h1 { font-size: 4.5em;
-        text-shadow: 4px 4px 4px whitesmoke; }
-    h2 { font-size: 5em;
-        text-shadow: 4px 4px 4px whitesmoke;
-        padding: 10px auto 10px auto}
-    h3 { font-size: 4em;
-        text-shadow: 4px 4px 4px whitesmoke; }
+  @media screen and (min-width: 600px) { 
+    h1 {font-size: 4.5em !important;
+        text-shadow: 4px 4px 4px whitesmoke !important;} } 
+   @media screen and (min-width: 600px) {
+    h2 {font-size: 5em !important;
+        text-shadow: 4px 4px 4px whitesmoke !important;
+        padding: 10px auto 10px auto !important;} }
+   @media screen and (min-width: 600px) {
+    h3  {font-size: 4em !important;
+        text-shadow: 4px 4px 4px whitesmoke !important;} 
   }
 
   
