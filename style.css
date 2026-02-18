@@ -7,19 +7,6 @@ html, body {
   font-family: Arial, sans-serif;
 }
 
-/* Header 
-header {
-  background-color: red;
-  color: black;
-  text-align: center;
-  padding: 10px auto 10px auto;
-  border: 2px red;
-  margin: 0px auto 10px auto;
-  line-height: 1;
-  background-image: radial-gradient(red
-                                crimson,  black);  /* Gradient */
-
-
 header h1 {
   background-color: red;
   color: black;
@@ -72,31 +59,3 @@ h3 {
                                crimson,  black);
   {
 
-  @media screen and (min-width: 600px) { 
-    h1 {font-size: 4.5em !important;
-        text-shadow: 4px 4px 4px whitesmoke !important;} } 
-   @media screen and (min-width: 600px) {
-    h2 {font-size: 5em !important;
-        text-shadow: 4px 4px 4px whitesmoke !important;
-        padding: 10px auto 10px auto !important;} }
-   @media screen and (min-width: 600px) {
-    h3  {font-size: 4em !important;
-        text-shadow: 4px 4px 4px whitesmoke !important;} 
-  }
-
-  
-  
-  
-  
-
-
-/*footer { 
-  background-color: red;
-  color: black;
-  margin: 10px auto 0px auto;
-  padding: 10px auto 10px auto;
-  text-align: center;
-  font-size: 4.0em;
-  background-image: radial-gradient(red,
-                                crimson,  black);
-}*/
