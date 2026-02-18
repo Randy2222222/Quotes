@@ -72,11 +72,12 @@ h3 {
                                crimson,  black);
   {
 
-  @media screen (min-width: 600px) {
+  @media screen and (min-width: 600px) {
     h1 { font-size: 4.5em;
         text-shadow: 4px 4px 4px whitesmoke; }
     h2 { font-size: 5em;
-        text-shadow: 4px 4px 4px whitesmoke; }
+        text-shadow: 4px 4px 4px whitesmoke;
+        padding: 10px auto 10px auto}
     h3 { font-size: 4em;
         text-shadow: 4px 4px 4px whitesmoke; }
   }
