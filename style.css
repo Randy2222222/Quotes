@@ -35,9 +35,9 @@ h2 {
   text-align: center; 
   border-radius: 50px;
   border: 5px solid black;
-  font-weight: 800;
+  font-weight: 900;
   color: black;
-  text-shadow: 2px 2px 2px whitesmoke;
+  text-shadow: 3px 3px 3px whitesmoke;
 /* margin: 120px auto 120px auto; */ /* took margin out and used flex box for margin adjuustment 👍 */
   padding: 10px 5px 10px 5px; /* added 10px padding to sides looks much better */
   background-image: radial-gradient(red,
@@ -57,5 +57,5 @@ h3 {
   padding: 15px auto 15px auto;
   background-image: radial-gradient(red,
                                crimson,  black);
-  {
+}
 
