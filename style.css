@@ -37,11 +37,11 @@ h2 {
   border: 5px solid black;
   font-weight: 900;
   color: black;
-  text-shadow: 3px 3px 3px whitesmoke;
+  text-shadow: 2px 2px 2px whitesmoke;
 /* margin: 120px auto 120px auto; */ /* took margin out and used flex box for margin adjuustment 👍 */
   padding: 10px 5px 10px 5px; /* added 10px padding to sides looks much better */
   background-image: radial-gradient(red,
-                                crimson,  black);
+                               dark red,  black);
 }
 
 h3 {
