@@ -6,11 +6,6 @@ html, body {
   color: red;
   font-family: Arial, sans-serif;
 }
-@media only screen and (min-width: 600px) {
-  h1{font-size: 4em;}
-  h2{font-size: 4.5em;}
-  h3{font-size: 4em;}
-}
 
     h1 {
   background-color: red;
@@ -62,5 +57,10 @@ h3 {
   padding: 15px auto 15px auto;
   background-image: radial-gradient(red,
                                crimson,  black);
+}
+@media only screen and (min-width: 600px) {
+  h1{font-size: 4em;}
+  h2{font-size: 4.5em;}
+  h3{font-size: 4em;}
 }
 
