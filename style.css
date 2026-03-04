@@ -59,7 +59,7 @@ h3 {
   background-image: radial-gradient(red,
                                crimson,  black);
 }
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 700px) {
   h1{font-size: 4em;}
   h2{font-size: 4.5em;}
   h3{font-size: 4em;}
