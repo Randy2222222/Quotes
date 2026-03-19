@@ -18,7 +18,7 @@ body {
   text-align: center;
   font-size: 1.5em; /* 4.5 */
   font-weight: bold;
-  text-shadow: 2px 2px 2px whitesmoke;
+  text-shadow: 2px 2px 2px dimgray;
 /*  line-height: .6em; */
   background-image: radial-gradient(red,
                                 crimson,  black);
@@ -38,7 +38,7 @@ h2 {
   border: 5px solid black;
   font-weight: 800;
   color: black;
-  text-shadow: 3px 3px 3px whitesmoke;
+  text-shadow: 3px 3px 3px dimgray;
 /* margin: 120px auto 120px auto; */ /* took margin out and used flex box for margin adjuustment 👍 */
   padding: 10px 5px 10px 5px; /* added 10px padding to sides looks much better */
   background-image: radial-gradient(red,
@@ -53,7 +53,7 @@ h3 {
   border: 3px solid black;
   color: black;
   text-align: center;
-  text-shadow: 2px 2px 2px whitesmoke;
+  text-shadow: 2px 2px 2px dimgray; /* whitesmoke */
   margin: 5px auto 0px auto;
   padding: 15px auto 15px auto;
   background-image: radial-gradient(red,
