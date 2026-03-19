@@ -18,7 +18,7 @@ body {
   text-align: center;
   font-size: 1.5em; /* 4.5 */
   font-weight: bold;
-  text-shadow: 2px 2px 2px dimgray;
+  text-shadow: 3px 3px 3px dimgray;
 /*  line-height: .6em; */
   background-image: radial-gradient(red,
                                 crimson,  black);
@@ -53,7 +53,7 @@ h3 {
   border: 3px solid black;
   color: black;
   text-align: center;
-  text-shadow: 2px 2px 2px dimgray; /* whitesmoke */
+  text-shadow: 3px 3px 3px dimgray; /* whitesmoke */
   margin: 5px auto 0px auto;
   padding: 15px auto 15px auto;
   background-image: radial-gradient(red,
