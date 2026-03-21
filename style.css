@@ -61,9 +61,7 @@ h3 {
 }
 
   .footer2 { /* was text */
-  display: block;
-  position: absolute; /* Position the text absolutely */
-  top: 20px;
+  position: relative; /* Position the text absolutely */
   bottom: 0;         /* Align to the bottom */
   left: 50%;         /* Center horizontally */
   transform: translateX(-50%); /* Adjust for centering */
