@@ -58,14 +58,14 @@ h3 {
   padding: 15px auto 15px auto;
   background-image: radial-gradient(red,
                                crimson,  black);
-}
+
   .footer { /* was text */
   position: absolute; /* Position the text absolutely */
   bottom: 0;         /* Align to the bottom */
   left: 50%;         /* Center horizontally */
   transform: translateX(-50%); /* Adjust for centering */
 }
-
+}
 @media only screen and (min-width: 375px) {
   h1{font-size: 1.875em;}
   h2{font-size: 3.125em;}
