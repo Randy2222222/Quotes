@@ -60,7 +60,7 @@ h3 {
                                crimson,  black);
 }
 
-  .footer2 { /* was text */
+  .footer { /* was text */
   position: relative; /* Position the text absolutely */
   bottom: 0;         /* Align to the bottom */
   left: 50%;         /* Center horizontally */
