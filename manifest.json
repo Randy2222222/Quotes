@@ -1,7 +1,7 @@
 {
   "name": "Quotes",
   "short_name": "Quotes",
-  "start_url": "/",
+  "start_url": "/Quotes/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
