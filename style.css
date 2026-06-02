@@ -81,4 +81,9 @@ h3 {
   h2{font-size: 4.5em;}
   h3{font-size: 4em;}
 }
+@media only screen and (min-width: 750px) {
+  h1{font-size: 5.75em;}
+  h2{font-size: 6.25em;}
+  h3{font-size: 5.75em;}
+}
 
